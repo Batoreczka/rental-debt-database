@@ -11,5 +11,6 @@ Database storing information on subject:
 9.	bailiffs
 10.	bailiff executions
 11.	awarded invoices
+
 The script also contains sample queries. 
 
