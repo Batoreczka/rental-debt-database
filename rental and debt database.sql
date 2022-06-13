@@ -1,4 +1,3 @@
------------- PROJEKT NA ZALICZENIE -----------
 ---------- PATRYCJA BATOR ----------
 
 CREATE DATABASE MIESZKANIOWKA 
